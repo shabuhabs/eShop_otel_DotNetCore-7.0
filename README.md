@@ -1,4 +1,9 @@
 
+<a href="https://dot.net/architecture">
+   <img src="https://github.com/dotnet-architecture/eShopOnContainers/raw/dev/img/eshop_logo.png" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
+</a>
+
+
 # Splunk APM Implementation:
 
 ![image](https://github.com/shabuhabs/eShop_otel_DotNetCore-7.0/assets/32849847/3e22d8ca-029b-4d05-a896-cd69547f9634)
@@ -30,9 +35,6 @@ src/Services/Identity/Identity.API/Dockerfile
 src/Services/Basket/Basket.API/Dockerfile
 ```
 
-<a href="https://dot.net/architecture">
-   <img src="https://github.com/dotnet-architecture/eShopOnContainers/raw/dev/img/eshop_logo.png" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
-</a>
 
 # .NET Microservices Sample Reference Application
 
