@@ -1,8 +1,10 @@
 
-Splunk APM Implementation:
+# Splunk APM Implementation:
 
 ![image](https://github.com/shabuhabs/eShop_otel_DotNetCore-7.0/assets/32849847/3e22d8ca-029b-4d05-a896-cd69547f9634)
 
+
+# Instrumentation Guide
 
 Add your ENVIROMENT TAG, REALM and TOKEN to each of the following Docker Files
 
