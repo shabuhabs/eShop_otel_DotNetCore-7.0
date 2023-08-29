@@ -1,3 +1,33 @@
+
+Splunk APM Implementation:
+
+![image](https://github.com/shabuhabs/eShop_otel_DotNetCore-7.0/assets/32849847/3e22d8ca-029b-4d05-a896-cd69547f9634)
+
+
+Add your ENVIROMENT TAG, REALM and TOKEN to each of the following Docker Files
+
+```
+src/Web/WebMVC/Dockerfile
+
+src/Web/WebhookClient/Dockerfile
+
+src/Web/WebStatus/Dockerfile
+
+src/Web/WebSPA/Dockerfile
+
+src/Services/Catalog/Catalog.API/Dockerfile
+
+src/Services/Webhooks/Webhooks.API/Dockerfile
+
+src/Services/Payment/Payment.API/Dockerfile
+
+src/Services/Ordering/Ordering.API/Dockerfile
+
+src/Services/Identity/Identity.API/Dockerfile
+
+src/Services/Basket/Basket.API/Dockerfile
+```
+
 <a href="https://dot.net/architecture">
    <img src="https://github.com/dotnet-architecture/eShopOnContainers/raw/dev/img/eshop_logo.png" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
 </a>
